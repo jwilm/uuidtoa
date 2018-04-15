@@ -1,0 +1,14 @@
+[package]
+name = "uuidtoa"
+version = "0.1.0"
+authors = ["Joe Wilm <joe@jwilm.com>"]
+license = "Apache-2.0"
+repository = "https://github.com/jwilm/uuidtoa"
+documentation = "https://docs.rs/uuidtoa"
+
+[features]
+default = []
+bench = []
+
+[dependencies]
+uuid = "0.6"

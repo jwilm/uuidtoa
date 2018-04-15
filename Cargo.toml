@@ -5,6 +5,7 @@ authors = ["Joe Wilm <joe@jwilm.com>"]
 license = "Apache-2.0"
 repository = "https://github.com/jwilm/uuidtoa"
 documentation = "https://docs.rs/uuidtoa"
+description = "Fast printing for UUID"
 
 [features]
 default = []
